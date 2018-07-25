@@ -12,7 +12,6 @@ end
 end
 
 
-
   # "Right foot back", and "Stop", with sleep after each
 end
 
