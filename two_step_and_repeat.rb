@@ -11,6 +11,9 @@ def first_steps
 end
 end
 
+
+irb -r ./two_step_and_repeat.rb
+
   # "Right foot back", and "Stop", with sleep after each
 end
 
